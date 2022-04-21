@@ -184,20 +184,7 @@ function Rendering() {
                                                     <div class="form-outline flex-fill mb-0">
                                                         <div class="row d-flex justify-content-center align-items-center h-100" style={{ margin: "20" }}>
 
-                                                            
-
-                                                            <div class="form-check form-check-inline mb-0 me-6">
-                                                                <input
-                                                                    class="form-check-input"
-                                                                    type="radio"
-                                                                    name="inlineRadioOptions"
-                                                                    value={2}
-                                                                    onClick={(e) => otpdta(e.target.value)}
-
-
-                                                                />
-                                                                <label class="form-check-label" for="maleGender">MobileNumber</label>
-                                                            </div>
+                                                       
                                                         </div>
                                                         <br />
                                                         <TextField name='username'
